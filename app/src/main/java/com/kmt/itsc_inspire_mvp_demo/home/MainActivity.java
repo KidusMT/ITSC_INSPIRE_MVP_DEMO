@@ -1,8 +1,10 @@
-package com.kmt.itsc_inspire_mvp_demo;
+package com.kmt.itsc_inspire_mvp_demo.home;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.kmt.itsc_inspire_mvp_demo.R;
 
 public class MainActivity extends AppCompatActivity {
 
