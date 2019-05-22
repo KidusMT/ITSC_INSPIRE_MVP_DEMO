@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#19334d</color>
+    <color name="colorPrimaryDark">#2e3338</color>
+    <color name="colorAccent">#FF9800</color>
+    <color name="black_effective">#2a2a2a</color>
+    <color name="transparent">#00000000</color>
+    <color name="semi_gray">#979797</color>
+    <color name="white">#ffffff</color>
+    <color name="email_password_field_background_color">#f1f1f1</color>
 </resources>
