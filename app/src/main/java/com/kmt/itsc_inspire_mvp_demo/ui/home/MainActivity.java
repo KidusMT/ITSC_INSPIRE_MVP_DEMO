@@ -1,4 +1,4 @@
-package com.kmt.itsc_inspire_mvp_demo.home;
+package com.kmt.itsc_inspire_mvp_demo.ui.home;
 
 import androidx.appcompat.app.AppCompatActivity;
 

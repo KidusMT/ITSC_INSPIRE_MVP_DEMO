@@ -1,4 +1,4 @@
-package com.kmt.itsc_inspire_mvp_demo.login;
+package com.kmt.itsc_inspire_mvp_demo.ui.login;
 
 public interface LoginContract {
 
@@ -8,6 +8,8 @@ public interface LoginContract {
         void hideLoading();
 
         void openHomeActivity();
+
+        void showMessage(String message);
     }
 
     interface LoginPresenter {
